@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChessEngine", "ChessEngine.vcxproj", "{DEA3F9FD-A767-48EF-A600-94177554A56F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		MoveTest - Debug|x64 = MoveTest - Debug|x64
+		MoveTest - Debug|x86 = MoveTest - Debug|x86
+		MoveTest - Release|x64 = MoveTest - Release|x64
+		MoveTest - Release|x86 = MoveTest - Release|x86
+		OpeningBook - Debug|x64 = OpeningBook - Debug|x64
+		OpeningBook - Debug|x86 = OpeningBook - Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		UnitTest|x64 = UnitTest|x64
+		UnitTest|x86 = UnitTest|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.Debug|x64.ActiveCfg = Debug|x64
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.Debug|x64.Build.0 = Debug|x64
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.Debug|x86.ActiveCfg = Debug|Win32
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.Debug|x86.Build.0 = Debug|Win32
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.MoveTest - Debug|x64.ActiveCfg = MoveTest - Debug|x64
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.MoveTest - Debug|x64.Build.0 = MoveTest - Debug|x64
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.MoveTest - Debug|x86.ActiveCfg = MoveTest - Debug|Win32
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.MoveTest - Debug|x86.Build.0 = MoveTest - Debug|Win32
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.MoveTest - Release|x64.ActiveCfg = MoveTest - Release|x64
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.MoveTest - Release|x64.Build.0 = MoveTest - Release|x64
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.MoveTest - Release|x86.ActiveCfg = MoveTest - Release|Win32
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.MoveTest - Release|x86.Build.0 = MoveTest - Release|Win32
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.OpeningBook - Debug|x64.ActiveCfg = OpeningBook - Debug|x64
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.OpeningBook - Debug|x64.Build.0 = OpeningBook - Debug|x64
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.OpeningBook - Debug|x86.ActiveCfg = OpeningBook - Debug|Win32
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.OpeningBook - Debug|x86.Build.0 = OpeningBook - Debug|Win32
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.Release|x64.ActiveCfg = Release|x64
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.Release|x64.Build.0 = Release|x64
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.Release|x86.ActiveCfg = Release|Win32
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.Release|x86.Build.0 = Release|Win32
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.UnitTest|x64.ActiveCfg = UnitTest|x64
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.UnitTest|x64.Build.0 = UnitTest|x64
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.UnitTest|x86.ActiveCfg = UnitTest|Win32
+		{DEA3F9FD-A767-48EF-A600-94177554A56F}.UnitTest|x86.Build.0 = UnitTest|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A388BBB-6B5A-4A70-873D-C5E51BE315A3}
+	EndGlobalSection
+EndGlobal
